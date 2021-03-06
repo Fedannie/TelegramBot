@@ -1,6 +1,6 @@
 import telebot
 
-bot = telebot.TeleBot('TOKEN')
+bot = telebot.TeleBot('1674545727:AAEgn79V1ae8ALH4OA2N5HRb7NV-SkvsTk0')
 current_status = 0
 
 
